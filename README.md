@@ -1,6 +1,8 @@
 # WA-KILLER
 WA-KILLER - a whatsapp reporter tool with several attack methods &amp; report types.
 
+##
+![screenshot](https://github.com/Bl4ckwin/WA-KILLER/blob/main/Screenshot[1].jpg?raw=true)
 ## Report types :
 
 - `Immoral actions`
